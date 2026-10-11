@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, I'm Rameih 👋
 
+Applied Mathematics & Statistics Master's candidate at Université de Poitiers, specializing in empirical flow modeling, spatial trajectory analysis, and air transport data pipelines.
+
+- 🔭 Current Focus: Reconstructing continuous flight paths from noisy feeds and modeling airport surface congestion.
+- 🛠️ Core Stack: Python (GeoPandas, Pandas, Shapely), SQL (PostgreSQL, PostGIS, Window Functions), R.
+- 📐 Interests: Operations research, queueing dynamics, non-parametric smoothing, and flight dispatch analytics.
+- 📫 Let's connect: remyarmah@gmail.com
+- ⚡ Fun fact: I know way more about airport taxi-out queues and runway bottlenecks than any normal person should, but I will still look at Google Maps on walking mode and immediately walk the wrong direction. ✈️🚶‍♂️
 <!--
 **remyarmah-beep/remyarmah-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
